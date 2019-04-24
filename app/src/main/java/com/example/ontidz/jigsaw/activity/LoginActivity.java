@@ -13,6 +13,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import com.example.ontidz.jigsaw.R;
 import com.example.ontidz.jigsaw.common.Grade;
+import com.example.ontidz.jigsaw.common.Info;
 import com.example.ontidz.jigsaw.common.Login;
 
 import java.io.IOException;
@@ -86,7 +87,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                         .add("password",passwordText.getText().toString())
                         .build();
                 final Request request = new Request.Builder()
-                        .url("http://45.77.12.32:8081/login")
+                        .url(Info.serverAddress + "/login")
                         .post(requestBody)
                         .build();
                 Call call = client.newCall(request);

@@ -3,21 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/2ec1bc30db51565c7af9abb824cbaa6bc63cf3db/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_240a87a3000d5890d658830dae0209ad780aef33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/8fbc42da3a9984c8d2fb5ccc220863271e1ac4ab/output/jars/classes.jar"
+        jar="/Users/ontidz/.android/build-cache/431d76be0cc34400a4ad6f9c423aa3c2386bc7f2/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_7584196476f8f6c89c7959752674701de515a280.jar" />
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_6e0aead25e1996b4116379c5ae4db96ab41b251e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ontidz/.android/build-cache/0149eb4ebb08cc6b8bd1c3b28c86479ec283813b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_70334ddf06824a07241520d7cf57da0eafff24c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/0149eb4ebb08cc6b8bd1c3b28c86479ec283813b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70334ddf06824a07241520d7cf57da0eafff24c1/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -29,13 +38,13 @@
         <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/gson-2.7_1cee7402773ec6370e3eefda07deb40e5c4a86a8.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/0d66b36cd8db37fcaa1404be07d96f9b6c05bc5d/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/ontidz/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_6c1fbbca7bc6860abfed1913463a364e8e997b84.jar" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_1cee7402773ec6370e3eefda07deb40e5c4a86a8/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -48,12 +57,75 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/50b32c547593f2b3fa39ebf82647489c1091f2a2/output/jars/classes.jar"
+        jar="/Users/ontidz/.android/build-cache/817f3118d4651a46c28461ba72213c9d3c569fd7/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_b51b19d67845139951f83b701badbb284dcd43ee.jar" />
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_d92917d0f8f8bc4886ecc00e851fc6b2a6ffb489.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/f1331a7d33dacf6569d6d7d3c5a5b8bca353e5c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2f842dc64b7cc39e366ffd8f575df3d66d3e833/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_d0dff981d8666b115ee55e863a8ab5fc47f03823/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/ca71bdf5cf02084022f213ddd746fd6a018c1255/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70d8aace55ecabf7946ab98216965de83af2c769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/817f3118d4651a46c28461ba72213c9d3c569fd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d92917d0f8f8bc4886ecc00e851fc6b2a6ffb489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/c8f1c67ae4fe84f94ab82e0c11c4cfe199ee9eac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b1d33b61dbb6f090616a9b7adc44248df2cfcf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ontidz/.android/build-cache/c8f1c67ae4fe84f94ab82e0c11c4cfe199ee9eac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_6b1d33b61dbb6f090616a9b7adc44248df2cfcf1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_d8addd4277b607f2dff66fe4fa5677c61f2a8970/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -65,6 +137,15 @@
         <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/okio-1.11.0_d8addd4277b607f2dff66fe4fa5677c61f2a8970.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/ontidz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_87a93d06ad3c021cf9df2556cca7d3ab0f95ffb2/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/ontidz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
         jumboMode="false"
@@ -74,49 +155,103 @@
         <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/okhttp-3.5.0_87a93d06ad3c021cf9df2556cca7d3ab0f95ffb2.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/db0dca6b84e62c1647235e8d1e8cf99328583be5/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/431d76be0cc34400a4ad6f9c423aa3c2386bc7f2/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_0904f97b04eb04a54bb025f20906675ce7a4ddea.jar" />
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e0aead25e1996b4116379c5ae4db96ab41b251e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/64799b6c65c9af84e62b171b8376981193ce2017/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93e1042428a03fea2bacabc2f462b5694cf0cd0c/classes.dex" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/60a7ebd8ee6772aa108b25f2f4608dbbcdb3dbbd/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_73603ecbf84320e30a5e9848abdfa84ac9694f84.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/0351c5db48508fc259c7e248ebe24b7bbd34c4b4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_c75b9d071566aa59b37d7454ab753c7a30032417.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/1d6ab9d1e0a4f4bd70d21b533b731551834e5804/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_d4f6c4c632b96987788d1884992afeeac58d86c7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ontidz/.android/build-cache/be1448ba9e1bedecfd5146a1fb8a1b0dd7accdeb/output/jars/classes.jar"
+        jar="/Users/ontidz/.android/build-cache/64799b6c65c9af84e62b171b8376981193ce2017/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_b1910686b9d65565beafcfb160a0fa6ddd1e7e80.jar" />
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_93e1042428a03fea2bacabc2f462b5694cf0cd0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ontidz/.android/build-cache/bc9b7e089f249089da137a72212d8c1a1f1046a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_0744a8b79529b76befaf165b06a53c17e63e5bc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/bc9b7e089f249089da137a72212d8c1a1f1046a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0744a8b79529b76befaf165b06a53c17e63e5bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ontidz/.android/build-cache/ca71bdf5cf02084022f213ddd746fd6a018c1255/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_70d8aace55ecabf7946ab98216965de83af2c769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ontidz/.android/build-cache/f1331a7d33dacf6569d6d7d3c5a5b8bca353e5c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_b2f842dc64b7cc39e366ffd8f575df3d66d3e833.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70e18cc5b53aa7967f920c4bfaf232843fe8e41c">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b4949a2cf5d65e37d004d9ee9d445f322c8187f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05ad24bd4062cfc408cab246523f8c9ad12e3f5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ontidz/.android/build-cache/651fb971a3d999764f31fe1df1cfe2a2f6643d2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61bd51179234436c26efe89ae2dfd3dfcc24f18d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ontidz/.android/build-cache/651fb971a3d999764f31fe1df1cfe2a2f6643d2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/ontidz/Documents/code/Android/Jigsaw-android/app/build/intermediates/pre-dexed/debug/classes_61bd51179234436c26efe89ae2dfd3dfcc24f18d.jar" />
     </item>
 
 </items>

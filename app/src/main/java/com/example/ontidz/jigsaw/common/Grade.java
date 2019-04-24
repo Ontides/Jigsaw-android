@@ -6,6 +6,7 @@ import android.widget.ListView;
 
 import com.example.ontidz.jigsaw.R;
 import com.example.ontidz.jigsaw.activity.GameActivity;
+import com.example.ontidz.jigsaw.common.Info;
 import com.google.gson.Gson;
 
 import java.io.IOException;
@@ -29,7 +30,7 @@ public class Grade{
         OkHttpClient client = new OkHttpClient();
         Request request = new Request.Builder()
                 .get()
-                .url("http://45.77.12.32:8081/" + userName)
+                .url(Info.serverAddress + "/" + userName)
                 .build();
         Call call = client.newCall(request);
 
@@ -74,7 +75,7 @@ public class Grade{
                 .add("level", String.valueOf(level))
                 .build();
         final Request request = new Request.Builder()
-                .url("http://45.77.12.32:8081/"+name)
+                .url(Info.serverAddress + "/" + name)
                 .put(requestBody)
                 .build();
         Call call = client.newCall(request);

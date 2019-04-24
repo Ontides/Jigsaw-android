@@ -13,6 +13,7 @@ import android.widget.Toast;
 
 import com.example.ontidz.jigsaw.R;
 import com.example.ontidz.jigsaw.common.Grade;
+import com.example.ontidz.jigsaw.common.Info;
 import com.example.ontidz.jigsaw.common.Login;
 
 import java.io.IOException;
@@ -79,14 +80,19 @@ public class SignupActivity extends AppCompatActivity  implements View.OnClickLi
                         .add("password",passwordText.getText().toString())
                         .build();
                 final Request request = new Request.Builder()
-                        .url("http://45.77.12.32:8081/signup")
+                        .url(Info.serverAddress+"/signup")
                         .post(requestBody)
                         .build();
                 Call call = client.newCall(request);
                 call.enqueue(new Callback() {
                     @Override
                     public void onFailure(Call call, IOException e) {
-                        Toast.makeText(SignupActivity.this, "请求失败", Toast.LENGTH_SHORT).show();
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                Toast.makeText(SignupActivity.this, "请求失败", Toast.LENGTH_SHORT).show();
+                            }
+                        });
                     }
 
                     @Override
